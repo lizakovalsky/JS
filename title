@@ -1,0 +1,11 @@
+<html>
+<head>
+  <title>HW JS 1</title>
+  <script src= "main.js"></script>
+</head>
+<body>
+  <p1><b>Ну давай, нападай(кликнби)</b></p1>
+  <h1><button id="button_page"> Милая детская песенка смотреть всем </button></h1>
+  <button id="button_style"> Поменять стильб</button>
+</body>
+</html>
