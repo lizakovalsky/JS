@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title>Погодка</title>
+</head>
+<body class="body" onload="Obj(term); getSrZnach(term); getMaxZnach(term)">
+  <h1 align="center" class="name">Прогноз погоды в Ближнем Востоке:</h1>
+  <table align="center" class="table" id="object"></table>
+  <div class="h2">
+  <h2>Средняя температура по странам: <span id="sr"></span></h2>
+  <h2>Максимальная температура: <span id="max"></span></h2>
+  </div>
+  <script src = "jav.js"></script>
+</body>
+</html>
